@@ -1,4 +1,5 @@
 **Paper Name: A Dual-Branch Deep Learning Framework for Emotion Recognition from EEG Signals**
+
 **Journal Name**: Scientific Reports. 
 
 **Abstract:** Mental health monitoring through emotion recognition plays an important role in early intervention and personalized healthcare
